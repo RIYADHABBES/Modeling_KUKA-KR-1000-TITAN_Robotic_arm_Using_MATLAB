@@ -21,7 +21,7 @@ To achieve this goal, we went through intermediate stages:
 - Establish a control law for a point-to-point type trajectory.
 - Determine the trajectory of the effector.
           
-- ![A* Search](https://raw.githubusercontent.com/RIYADHABBES/Modeling_KUKA-KR-1000-TITAN_Robotic_arm_Using_MATLAB/main/kuka.gif)
+![A* Search](https://raw.githubusercontent.com/RIYADHABBES/Modeling_KUKA-KR-1000-TITAN_Robotic_arm_Using_MATLAB/main/kuka.gif)
 
 
 ### Motion Planner
