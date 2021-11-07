@@ -27,9 +27,9 @@ To achieve this goal, we went through intermediate stages:
 
 
 ### Motion Planner
-- Angular trajectories were planned by interpolation of the order of 5.
+- Angular trajectories were planned by interpolation of the order 5.
 
-## Notes
+### Notes
 - Since the frame of this work is in french, the documentation and comments are in french as well.
 
 ### Dependencies
