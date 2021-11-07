@@ -7,7 +7,7 @@ Applied robotics project
 
 ### Objectives
 The goal is to plan the trajectory of the KUKA KR 1000 TITAN robotic arm that have six degrees of freedom 
-in a way its end effector move from point A to point B and compare it with the line (AB) while varying
+in a way its end effector moves from point A to point B and compare it with the line (AB) while varying
 the angles of our links.
 
 The validation of the model and the results will be done by a script programmed in MATLAB.
@@ -21,7 +21,9 @@ To achieve this goal, we went through intermediate stages:
 - Establish a control law for a point-to-point type trajectory.
 - Determine the trajectory of the effector.
           
-![A* Search](https://raw.githubusercontent.com/RIYADHABBES/Modeling_KUKA-KR-1000-TITAN_Robotic_arm_Using_MATLAB/main/kuka.gif)
+![A* Search](https://github.com/RIYADHABBES/Modeling_KUKA-KR-1000-TITAN_Robotic_arm_Using_MATLAB/blob/main/KUKA_KR_1000_0001.jpg?raw=true) <img src="https://raw.githubusercontent.com/RIYADHABBES/Modeling_KUKA-KR-1000-TITAN_Robotic_arm_Using_MATLAB/main/kuka.gif" width="550" height="450"/>
+
+
 
 
 ### Motion Planner
